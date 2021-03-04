@@ -1,0 +1,12 @@
+Hotend :
+Recv: #define DEFAULT_Kp 19.13
+Recv: #define DEFAULT_Ki 1.23
+Recv: #define DEFAULT_Kd 74.11
+
+Bed :
+Recv: #define DEFAULT_bedKp 72.67
+Recv: #define DEFAULT_bedKi 13.74
+Recv: #define DEFAULT_bedKd 256.31
+
+Extruder :
+default :  M92 X80.00 Y80.00 Z400.00 E98.20
