@@ -10,3 +10,9 @@ Recv: #define DEFAULT_bedKd 256.31
 
 Extruder :
 default :  M92 X80.00 Y80.00 Z400.00 E98.20
+
+
+Set hotend:
+M301 P19.13 I1.23 D74.11
+Set BED
+M304 D256.31 I13.74 P72.67
